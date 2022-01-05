@@ -1,5 +1,5 @@
 ### Hi there 👋
-作ったゲームは以下のページに置いてあります。
+作ったゲームは以下のページに置いてあります。  
 https://takahashiwelt.github.io/Takahashiwelt/
 <!--
 **Takahashiwelt/Takahashiwelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
